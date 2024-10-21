@@ -1,15 +1,15 @@
 # 💫 About Me:
 Hola! Yo soy **Jhon Wilmer**, voy aprendiendo **Python** y **Desarrollo Web** y me gusta seguir proyectos interesantes.
 
-- 📫 Comunicarse conmigo por Telegram: **https://t.me/Jhon_Wilmer_JK **
+- 📫 [![Telegram](https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jhon_Wilmer_JK)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tech.shreyash) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/techshreyash) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@techshreyash) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TechShreyash)
+## 🌐 Socials: None
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/) 
+
 
 
 ---
